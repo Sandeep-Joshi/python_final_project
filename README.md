@@ -1,5 +1,7 @@
 # python_review_prediction
-Final classwork: Predict restaurant reviews
+Classwork project: Predict restaurant reviews
+
+**Objective:** Train any model over any data to predict if restaurant reviews recommends the place or not.
 
 Following scripts are used to generated finalCode.py. This scripts contains code as well as svm model fit trained over a huge data set. Script 
 when run, reads itself and creates pickled fit files. Then it load them in the model fit objects and thus we could use it to predict without
